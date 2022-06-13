@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https//www.clinbioinfosspa.es/Pan-AI-Rep
+
+# Sitemaps
+Sitemap: https/www.clinbioinfosspa.es/Pan-AI-Rep/sitemap.xml
